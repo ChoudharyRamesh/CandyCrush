@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/main.qml</file>
+        <file>img/Background/background1.png</file>
+        <file>img/Background/background2.png</file>
+        <file>img/Background/background3.jpg</file>
+        <file>img/Background/Odustransparency.png</file>
+        <file>img/Original/Blue.png</file>
+        <file>img/Original/Green.png</file>
+        <file>img/Original/Orange.png</file>
+        <file>img/Original/Purple.png</file>
+        <file>img/Original/Red.png</file>
+        <file>img/Original/Yellow.png</file>
+        <file>img/StripedH/Blue.png</file>
+        <file>img/StripedH/Green.png</file>
+        <file>img/StripedH/Orange.png</file>
+        <file>img/StripedH/Purple.png</file>
+        <file>img/StripedH/Red.png</file>
+        <file>img/StripedH/Yellow.png</file>
+        <file>img/StripedV/Blue.png</file>
+        <file>img/StripedV/Green.png</file>
+        <file>img/StripedV/Orange.png</file>
+        <file>img/StripedV/Purple.png</file>
+        <file>img/StripedV/Red.png</file>
+        <file>img/StripedV/Yellow.png</file>
+        <file>img/Wrapped/Blue.png</file>
+        <file>img/Wrapped/Green.png</file>
+        <file>img/Wrapped/Orange.png</file>
+        <file>img/Wrapped/Purple.png</file>
+        <file>img/Wrapped/Red.png</file>
+        <file>img/Wrapped/Yellow.png</file>
+        <file>img/ColorBomb/ColorBomb.png</file>
+    </qresource>
+</RCC>
